@@ -1,16 +1,16 @@
 # portfolio-creative
 
 Subdomain:    creative.hamednouri.com
-Template:     Jessica
-Template URL: https://themewagon.github.io/Jessica/
+Template:     Template
+Template URL: #
 Public email: creative@hamednouri.com
-Resume:       hamed-nouri-internal-communications-resume-2026.pdf
+Resume:       None — CTA only
 
 ## Purpose
-Creative direction, comics, books, design, multimedia, storytelling.
+Portfolio for creative direction, comics, books, educational media, design, video, audio, and community storytelling by Hamed Nouri.
 
 ## Build
-Open index.html in browser. No build step required.
+Open index.html in browser. No build step required for plain HTML templates.
 
 ## Deploy
 Not deployed. Awaiting Hamed's approval.

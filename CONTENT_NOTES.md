@@ -1,0 +1,2 @@
+- Extracted and populated content based on `apply_content.py` target: `creative`.
+- Updated contact emails, placeholders, and links.

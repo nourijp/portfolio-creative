@@ -1,9 +1,3 @@
-# TODO — creative.hamednouri.com
-
-## Assets Needed
-- [ ] Book covers
-- [ ] Comic pages / character art
-- [ ] Video links
-- [ ] Voice/audio samples
-- [ ] Press screenshots
-- [ ] Headshot photo
+- [ ] Replace placeholder images in index.html with real project screenshots/photos
+- [ ] Add resume PDF (if applicable)
+- [ ] Update specific project links
